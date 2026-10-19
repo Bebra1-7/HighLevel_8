@@ -1,0 +1,14 @@
+C:\Users\grigo\Documents\HighLevel_8\bin\Debug\net10.0\HighLevel_8.exe
+C:\Users\grigo\Documents\HighLevel_8\bin\Debug\net10.0\HighLevel_8.deps.json
+C:\Users\grigo\Documents\HighLevel_8\bin\Debug\net10.0\HighLevel_8.runtimeconfig.json
+C:\Users\grigo\Documents\HighLevel_8\bin\Debug\net10.0\HighLevel_8.dll
+C:\Users\grigo\Documents\HighLevel_8\bin\Debug\net10.0\HighLevel_8.pdb
+C:\Users\grigo\Documents\HighLevel_8\obj\Debug\net10.0\HighLevel_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grigo\Documents\HighLevel_8\obj\Debug\net10.0\HighLevel_8.AssemblyInfoInputs.cache
+C:\Users\grigo\Documents\HighLevel_8\obj\Debug\net10.0\HighLevel_8.AssemblyInfo.cs
+C:\Users\grigo\Documents\HighLevel_8\obj\Debug\net10.0\HighLevel_8.csproj.CoreCompileInputs.cache
+C:\Users\grigo\Documents\HighLevel_8\obj\Debug\net10.0\HighLevel_8.dll
+C:\Users\grigo\Documents\HighLevel_8\obj\Debug\net10.0\refint\HighLevel_8.dll
+C:\Users\grigo\Documents\HighLevel_8\obj\Debug\net10.0\HighLevel_8.pdb
+C:\Users\grigo\Documents\HighLevel_8\obj\Debug\net10.0\HighLevel_8.genruntimeconfig.cache
+C:\Users\grigo\Documents\HighLevel_8\obj\Debug\net10.0\ref\HighLevel_8.dll
